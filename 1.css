@@ -1,0 +1,27 @@
+.standar{
+	height: 250px;
+	width:250px;
+}
+body{
+	background-color: gray;
+}
+.tombol{
+	height: 100px;
+	width: 100px;
+}
+
+.kanan{
+	float: right;
+}
+
+.kiri{
+	float: left;
+}
+
+.left{
+	text-align: left;
+}
+
+.right{
+	text-align: right;
+}
